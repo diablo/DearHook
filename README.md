@@ -8,7 +8,6 @@ This was made by [@DearSociety](https://github.com/DearSociety) and is only for 
 # How to install
 ```
 $ git clone https://github.com/diablo/dearhook
-
 ```
 # How to use
 - Modify the proxy.txt file and place your http proxies there.
